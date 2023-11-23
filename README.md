@@ -34,17 +34,17 @@ Authentication for secure admin login
 
 Payment gateway for secure transactions
 # Installation
-# Clone the Repository:
+Clone the Repository:
 
 # Copy code
-# git clone https://github.com/your-username/desibazaar.git
-# cd desibazaar
-# Install Dependencies:
+ git clone https://github.com/your-username/desibazaar.git
+ cd desibazaar
+ Install Dependencies:
 
 
 # Copy code
-# npm install
-# Set Up Firebase:
+npm install
+Set Up Firebase:
 
 Create a Firebase project: Firebase Console.
 Configure your Firebase project by adding your Firebase configuration details to firebaseConfig in config.js.
